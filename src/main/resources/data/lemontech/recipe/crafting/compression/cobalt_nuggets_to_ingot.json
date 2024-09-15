@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lemontech:cobalt_ingot"
+    }
+  },
+  "result": {
+    "id": "lemontech:cobalt_ingot",
+    "count": 1
+  }
+}

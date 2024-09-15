@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lemontech:cobalt_ingot"
+    }
+  ],
+  "result": {
+    "id": "lemontech:cobalt_nugget",
+    "count": 9
+  }
+}
