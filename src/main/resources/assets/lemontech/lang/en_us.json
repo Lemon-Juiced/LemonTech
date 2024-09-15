@@ -1,5 +1,12 @@
 {
+  "itemGroup.lemontech.items": "Lemontech Items",
+
   "item.lemontech.cobalt_ingot": "Cobalt Ingot",
   "item.lemontech.cobalt_nugget": "Cobalt Nugget",
-  "item.lemontech.raw_cobalt": "Raw Cobalt"
+  "item.lemontech.raw_cobalt": "Raw Cobalt",
+  "item.lemontech.cobalt_sword": "Cobalt Sword",
+  "item.lemontech.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.lemontech.cobalt_axe": "Cobalt Axe",
+  "item.lemontech.cobalt_shovel": "Cobalt Shovel",
+  "item.lemontech.cobalt_hoe": "Cobalt Hoe"
 }

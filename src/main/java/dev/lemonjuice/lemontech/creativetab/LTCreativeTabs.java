@@ -24,6 +24,11 @@ public class LTCreativeTabs {
             event.accept(LTItems.COBALT_INGOT.get());
             event.accept(LTItems.COBALT_NUGGET.get());
             event.accept(LTItems.RAW_COBALT.get());
+            event.accept(LTItems.COBALT_SWORD.get());
+            event.accept(LTItems.COBALT_PICKAXE.get());
+            event.accept(LTItems.COBALT_AXE.get());
+            event.accept(LTItems.COBALT_SHOVEL.get());
+            event.accept(LTItems.COBALT_HOE.get());
         }
     }
 
