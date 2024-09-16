@@ -35,6 +35,6 @@ public class LTTiers {
 
 
     // Extra Methods That Will Make Life Easier Than Straight Numbers
-    private static int getCobaltUses() {return Tiers.GOLD.getUses() * 20;}
+    private static int getCobaltUses() {return Tiers.GOLD.getUses() * 8;}
     private static float getCobaltSpeed() {return Tiers.GOLD.getSpeed() * 1.5F;}
 }
